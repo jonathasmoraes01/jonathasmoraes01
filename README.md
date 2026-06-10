@@ -32,7 +32,7 @@
 ![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Pine Script](https://img.shields.io/badge/Pine%20Script-1E90FF?style=for-the-badge&logoColor=white)
 ![EasyLanguage](https://img.shields.io/badge/EasyLanguage-FF6B00?style=for-the-badge&logoColor=white)
-![Profit](https://img.shields.io/badge/Profit%20Nelogica-00B140?style=for-the-badge&logoColor=white)
+![Profit](https://img.shields.io/badge/Profit%20Nelogica-0a0a0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwNzlGRiIgZD0iTTMgM2g3LjVMMTggMTJsLTcuNSA5SDNsNy41LTlMMy0zeiIvPjwvc3ZnPg==&logoColor=0079FF)
 
 </div>
 
