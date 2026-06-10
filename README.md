@@ -12,14 +12,10 @@
 
 ## Sobre mim
 
-```python
-jonathas = {
-    "nome":       "Jonathas Moraes",
-    "foco":       ["Trading Algoritmico", "Automacao Financeira", "MQL5"],
-    "atualmente": "Desenvolvendo robos e EAs para o mercado financeiro",
-    "contato":    "@joonathasmoraes"
-}
-```
+- Desenvolvedor especializado em **MQL5**, criando Expert Advisors e robos de trading
+- Apaixonado por **automacao de estrategias financeiras** no mercado
+- Explorando **inteligencia artificial aplicada ao trading algoritmico**
+- Sempre buscando unir tecnologia e mercado financeiro para gerar resultados
 
 ---
 
