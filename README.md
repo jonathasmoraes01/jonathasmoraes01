@@ -31,6 +31,8 @@
 ![MetaTrader](https://img.shields.io/badge/MetaTrader%205-0090D1?style=for-the-badge&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Pine Script](https://img.shields.io/badge/Pine%20Script-1E90FF?style=for-the-badge&logoColor=white)
+![EasyLanguage](https://img.shields.io/badge/EasyLanguage-FF6B00?style=for-the-badge&logoColor=white)
+![Profit](https://img.shields.io/badge/Profit%20Nelogica-00B140?style=for-the-badge&logoColor=white)
 
 </div>
 
