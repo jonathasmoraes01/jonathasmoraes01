@@ -26,7 +26,6 @@
 | [**BIG BEAR DEV ORCHESTRATOR**](https://github.com/jonathasmoraes01/big-bear-dev-orchestrator) | Mod do Claude Code que roteia Haiku/Sonnet/Opus, acompanha tarefas, tokens e limites de uso e protege o repositório. TypeScript, MIT, sem telemetria. |
 | [**Ragnarok Classic Idle**](https://roclassicidle.com.br) | Ragnarok Online idle no navegador, feito a partir do cliente oficial e do rAthena, com servidor de mapa próprio em TypeScript. |
 | [**WhisperEdge**](https://github.com/jonathasmoraes01/WhisperEdge) | Ditado por voz local e privado para Windows: fale em qualquer app e o texto aparece no cursor. Whisper local, Python. |
-| [**ragidle-client**](https://github.com/jonathasmoraes01/ragidle-client) | Fork do cliente roBrowser (RO em JavaScript) usado como cliente do Rag Idle. |
 
 ---
 
